@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="24"
+   height="24"
+   viewBox="0 0 24 24"
+   fill="none"
+   stroke="currentColor"
+   stroke-width="2"
+   stroke-linecap="round"
+   stroke-linejoin="round"
+   class="icon icon-tabler icons-tabler-outline icon-tabler-refresh"
+   version="1.1"
+   id="svg3"
+   sodipodi:docname="refresh_green_wb.svg"
+   inkscape:version="1.3.2 (091e20e, 2023-11-25, custom)"
+   inkscape:export-filename="refresh_green_wb.png"
+   inkscape:export-xdpi="300"
+   inkscape:export-ydpi="300"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs3" />
+  <sodipodi:namedview
+     id="namedview3"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="26.251339"
+     inkscape:cx="12.761254"
+     inkscape:cy="14.342125"
+     inkscape:window-width="1920"
+     inkscape:window-height="1129"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg3" />
+  <rect
+     style="fill:#00f986;fill-opacity:1;stroke:none;stroke-width:15.1181;stroke-linecap:square"
+     id="rect3"
+     width="24"
+     height="24"
+     x="0"
+     y="0"
+     ry="8.1900587" />
+  <path
+     stroke="none"
+     d="M0 0h24v24H0z"
+     fill="none"
+     id="path1" />
+  <path
+     d="M20 11a8.1 8.1 0 0 0 -15.5 -2m-.5 -4v4h4"
+     id="path2"
+     style="stroke:#ffffff" />
+  <path
+     d="M4 13a8.1 8.1 0 0 0 15.5 2m.5 4v-4h-4"
+     id="path3"
+     style="stroke:#ffffff" />
+</svg>

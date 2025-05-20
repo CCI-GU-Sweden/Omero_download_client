@@ -1,0 +1,7 @@
+name: omero-download-env
+channels:
+  - conda-forge
+  - ome
+dependencies:
+  - omero
+  - spyder
