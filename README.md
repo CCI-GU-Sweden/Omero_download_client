@@ -1,1 +1,3 @@
-# Omero_download_client
+# Omero download client
+
+Empty for now, stay tuned!
